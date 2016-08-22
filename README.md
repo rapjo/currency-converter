@@ -7,3 +7,5 @@
 ## Run unit tests
 > npm test
 
+# To see live demo
+https://rapjo.github.io/currency-converter/

@@ -1,0 +1,56 @@
+/* Base Application Styles */
+body {
+  color: #222;
+  background: #f9f9f9;
+}
+
+.index img {
+  margin: 40px auto;
+  border-radius: 4px;
+  background: #fff;
+  display: block;
+}
+
+.index .notice {
+  margin: 20px auto;
+  padding: 15px 0;
+  text-align: center;
+  border: 1px solid #000;
+  border-width: 1px 0;
+  background: #666;
+}
+
+
+/* ---- Custom CSS ---- */
+
+.currency-calculator {
+  margin-right: auto;
+  margin-left: auto;
+  width: 35%;
+}
+
+.currency-calculator__form {
+  margin-right: auto;
+  margin-left: auto;
+  width: 80%;
+}
+.currency-calculator__source-wrapper {
+  clear: left;
+}
+.currency-calculator__source-input, .currency-calculator__select-options {
+  float: left;
+  margin: 20px;
+}
+
+p {
+  color: #ff0000;
+  font-size: 14px;
+  font-weight: bold;
+  float: left;
+  margin-left: 120px;
+  display: none;
+}
+
+.displayError {
+  display: block;
+}
